@@ -7,7 +7,7 @@ If you're a Persian speaker you might have experienced that when you try to expo
 ### Features
 - Adobe saves same characters in different Unicode forms. the software detects different forms and replaces them with the standard one.
 - Adobe saves characters left-to-right English way. Persian texts however must be right-to-left so the software takes care of this part.
-<br><br>
+<br><br><br>
 
 ### License
 ```
