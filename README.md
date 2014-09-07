@@ -9,6 +9,10 @@ If you're a Persian speaker you might have experienced that when you try to expo
 - Adobe saves characters left-to-right English way. Persian texts however must be right-to-left so the software takes care of this part.
 <br><br><br>
 
+### Requirements 
+To use this code you will need [GTK#](http://download.xamarin.com/GTKforWindows/Windows/gtk-sharp-2.12.25.msi) for the user interface and [MonoDevelop](http://monodevelop.com/) for compiling it.
+<br><br><br>
+
 ### License
 ```
 TextFliper AKA Flip It Kary!
