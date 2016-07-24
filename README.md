@@ -1,3 +1,4 @@
+[![](http://www.karyfoundation.org/developer/dead-repo/gitbadge.png)](http://www.karyfoundation.org/developer/dead-repo/)
 
 # TextFliper
 If you're a Persian speaker you might have experienced that when you try to export a PDF file into something else the Persian text broke and there is no software available to fix this problem. This software however is a try to fix the broken Persian texts. You can see it's working good.<br>
